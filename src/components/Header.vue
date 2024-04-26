@@ -1,25 +1,12 @@
 <template>
   <!-- 头部整体盒子 -->
   <div id="header" class="container-fuild">
-    <!-- 头部顶部 -->
-    <div class="header-top container-fuild hidden-xs">
-      <div class="container">
-        <div class="server pull-left">
-          <span class="glyphicon glyphicon-earphone"></span>888-888-888
-          <span class="glyphicon glyphicon-envelope"></span>xxx@163.com
-          <span class="glyphicon glyphicon-time"></span>7x24小时为您服务
-        </div>
-        <div class="shejiao pull-right">
-          <span class="glyphicon glyphicon-hand-right"></span>赶快联系我们吧！
-          <span class="glyphicon glyphicon-hand-left"></span>
-        </div>
-      </div>
-    </div>
     <!-- 电脑导航 -->
     <div class="header-nav container hidden-xs">
       <!-- 导航logo -->
       <div class="header-nav-logo">
-        <img src="@/assets/img/logo_black.png">
+        <img src="@/assets/img/logo.png">
+        <img src="@/assets/img/logo-2.png">
       </div>
       <!-- 导航内容 -->
       <ul class="header-nav-wrapper">
@@ -41,6 +28,9 @@
           </dl>
         </li>
       </ul>
+      <div class="header-nav-phone">
+        <span>0592-5550863</span>
+      </div>
     </div>
     <!-- 手机导航 -->
     <div class="header-nav-m container-fuild visible-xs">
@@ -93,41 +83,32 @@ export default {
           children: []
         },
         {
-          name: "软件产品",
+          name: "产品中心",
           path: "/software",
-          children: [
-            {
-              name: "智能小镇管理系统",
-              path: "/software/smartTown"
-            },
-            {
-              name: "大数据管理系统",
-              path: "/software/bigData"
-            }
-          ]
+          children: []
         },
         {
-          name: "相关服务",
+          name: "解决方案",
           path: "/service",
           children: []
         },
         {
-          name: "新闻动态",
+          name: "企微社区",
           path: "/newsinformation",
           children: []
         },
         {
-          name: "公司介绍",
+          name: "应用市场",
           path: "/companyintroduction",
           children: []
         },
         {
-          name: "工作机会",
+          name: "关于我们",
           path: "/jobchance",
           children: []
         },
         {
-          name: "联系我们",
+          name: "欢迎加盟",
           path: "/contactus",
           children: []
         }
@@ -153,7 +134,7 @@ export default {
 <style scoped>
 /* 顶部 */
 #header {
-  background: #f4f4f4;
+  background: #fff;
   transition: all ease 0.6s;
 }
 #header .header-top {
@@ -169,49 +150,52 @@ export default {
 }
 /* 导航栏 */
 #header .header-nav {
-  height: 110px;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
 }
 /* 导航栏logo */
 #header .header-nav .header-nav-logo {
-  width: 100px;
+  width: 200px;
   height: 100%;
-  float: left;
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 /* 导航栏logo图片 */
-#header .header-nav .header-nav-logo img {
-  width: 95px;
-  height: 45px;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
+#header .header-nav .header-nav-logo img:first-child {
+  width: 78px;
+  height: 30px;
+}
+#header .header-nav .header-nav-logo img:last-child {
+  width: 80px;
+  height: 32px;
 }
 /* 导航栏 导航容器 */
 #header .header-nav-fixed .header-nav-wrapper {
   line-height: 50px;
 }
 #header .header-nav .header-nav-wrapper {
-  line-height: 110px;
-  float: right;
+  line-height: 100px;
   margin: 0;
-  max-width: 800px;
+  display: flex;
+  justify-content: space-around;
 }
 /* 导航栏 每个导航 */
 #header .header-nav .header-nav-wrapper > li {
-  float: left;
-  margin: 0 15px;
-  position: relative;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 /* 导航栏 每个导航下面的 a 链接 */
 #header .header-nav .header-nav-wrapper > li > a {
   color: #000;
   font-size: 15px;
   font-weight: bold;
-  padding: 15px 0;
   position: relative;
+  display: block;
 }
 /* 导航栏 每个导航下面的 a 链接的下划线 */
 #header .header-nav .header-nav-wrapper > li > a > i {
@@ -279,6 +263,12 @@ export default {
 #header .header-nav .header-nav-wrapper > li > dl > dt:hover {
   cursor: pointer;
   background: #ccc;
+}
+#header .header-nav .header-nav-phone {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #3D3D3D;
 }
 @media screen and (max-width: 997px) {
   #header .header-nav-m {

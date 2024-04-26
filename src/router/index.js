@@ -18,7 +18,7 @@ export default new Router({
         }, {
           path: '/home',
           name: 'home',
-          component: resolve => require(['@/view/HomePage'], resolve),
+          component: resolve => require(['@/view/Home'], resolve),
           meta: {
             title: '首页'
           }
