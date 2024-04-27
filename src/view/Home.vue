@@ -346,39 +346,76 @@
         <div class="dealer-content">
           <ul class="nava1">
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-2.png" alt="">
             </li>
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-3.png" alt="">
             </li>
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-4.png" alt="">
             </li>
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-5.png" alt="">
             </li>
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-6.png" alt="">
             </li>
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-7.png" alt="">
             </li>
           </ul>
           <ul class="nava1">
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-8.png" alt="">
             </li>
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-9.png" alt="">
             </li>
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-10.png" alt="">
             </li>
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-11.png" alt="">
             </li>
             <li class="item1">
-              <img src="@/assets/img/dealer/组 1@2x.png" alt="">
+              <img src="@/assets/img/dealer/image@1x-12.png" alt="">
+            </li>
+          </ul>
+          <ul class="nava1">
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x-13.png" alt="">
+            </li>
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x-14.png" alt="">
+            </li>
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x-15.png" alt="">
+            </li>
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x-16.png" alt="">
+            </li>
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x-17.png" alt="">
+            </li>
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x-18.png" alt="">
+            </li>
+          </ul>
+          <ul class="nava1">
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x-19.png" alt="">
+            </li>
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x-20.png" alt="">
+            </li>
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x-21.png" alt="">
+            </li>
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x-22.png" alt="">
+            </li>
+            <li class="item1">
+              <img src="@/assets/img/dealer/image@1x.png" alt="">
             </li>
           </ul>
         </div>
@@ -481,103 +518,62 @@
       </div>
       <div class="partner-main">
         <ul>
-          <li>
-
+          <li class="parner-1">
+            <div class="icon">
+              <img src="@/assets/img/partner/partner-1.png" alt="">
+            </div>
+            <p class="ttl">企微招募人</p>
+            <div class="ctr">
+              <p>聚焦制造业人是难题</p>
+              <p>招募人聚焦制造业人是难题</p>
+              <p>招募人</p>
+            </div>
+          </li>
+          <li class="parner-2">
+            <div class="icon">
+              <img src="@/assets/img/partner/partner-2.png" alt="">
+            </div>
+            <p class="ttl">企微推荐人</p>
+            <div class="ctr">
+              <p>聚焦制造业人是难题</p>
+              <p>招募人聚焦制造业人是难题</p>
+              <p>招募人</p>
+            </div>
+          </li>
+          <li class="parner-3">
+            <div class="icon">
+              <img src="@/assets/img/partner/partner-3.png" alt="">
+            </div>
+            <p class="ttl">企微分销</p>
+            <div class="ctr">
+              <p>聚焦制造业人是难题</p>
+              <p>招募人聚焦制造业人是难题</p>
+              <p>招募人</p>
+            </div>
+          </li>
+          <li class="parner-4">
+            <div class="icon">
+              <img src="@/assets/img/partner/partner-4.png" alt="">
+            </div>
+            <p class="ttl">区域代理</p>
+            <div class="ctr">
+              <p>聚焦制造业人是难题</p>
+              <p>招募人聚焦制造业人是难题</p>
+              <p>招募人</p>
+            </div>
+          </li>
+          <li class="parner-5">
+            <div class="icon">
+              <img src="@/assets/img/partner/partner-5.png" alt="">
+            </div>
+            <p class="ttl">金牌合伙人</p>
+            <div class="ctr">
+              <p>聚焦制造业人是难题</p>
+              <p>招募人聚焦制造业人是难题</p>
+              <p>招募人</p>
+            </div>
           </li>
         </ul>
-      </div>
-    </div>
-    <!-- 您身边的IT专家 -->
-    <div id="contactUs" class="container-fuild text-center">
-      <div class="container contactUs-container wow slideInUp">
-        <h1>您身边的IT专家</h1>
-        <h3>7x24小时提供出色的IT服务</h3>
-        <button
-          class="btn btn-default btn-sm"
-          onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='#ffffff'; this.style.color='#3f3f3f';"
-          onmouseenter="this.style.backgroundColor='transparent'; this.style.borderColor='#ffffff'; this.style.color='#ffffff';"
-        >联系我们</button>
-        <div class="contactUs-contactWay">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-      </div>
-    </div>
-    <!-- 客户评价 -->
-    <div id="customer" class="container-fuild">
-      <div class="container customer-container">
-        <p class="customer-title text-center">客户评价</p>
-        <div class="swiper-container customer-swiper hidden-xs">
-          <div class="swiper-wrapper">
-            <div
-              class="swiper-slide customer-block"
-              v-for="(item,index) in customerList"
-              :key="index"
-            >
-              <div class="customer-logo">
-                <img class="center-block" :src="item.logo" alt="logo">
-              </div>
-              <div class="customer-yh">
-                <img src="@/assets/img/yinhao.png" alt="引号">
-              </div>
-              <div class="customer-content1">
-                <small>{{item.content}}</small>
-              </div>
-              <div class="customer-content2">{{item.title}}</div>
-            </div>
-          </div>
-          <!-- 如果需要导航按钮 -->
-          <div class="swiper-button-prev"></div>
-          <div class="swiper-button-next"></div>
-        </div>
-        <div class="row visible-xs customer-block">
-          <div class="col-xs-12" v-for="(item,index) in customerList" :key="index">
-            <div class="customer-logo">
-              <img class="center-block" :src="item.logo" alt="logo">
-            </div>
-            <div class="customer-yh">
-              <img src="@/assets/img/yinhao.png" alt="引号">
-            </div>
-            <div class="customer-content1">
-              <small>{{item.content}}</small>
-            </div>
-            <div class="customer-content2">
-              <small>{{item.title}}</small>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- 为什么选择我们 -->
-    <div id="whyChooseUs" class="conatiner-fuild">
-      <div class="container">
-        <div class="whyChooseUs-title text-center">
-          <p>为什么选择我们的服务</p>
-          <p>THE REASON TO CHOOSING US</p>
-        </div>
-        <div class="row">
-          <div
-            class="col-xs-12 col-sm-6 col-md-3 server-wrapper"
-            v-for="(item,index) in serverList"
-            :key="index"
-          >
-            <div
-              class="server-block wow slideInUp"
-              onmouseenter="this.style.color='#28f';this.style.borderColor='#28f'"
-              onmouseleave="this.style.color='#666';this.style.borderColor='#ccc'"
-            >
-              <img class="center-block" :src="item.logo" alt="logo">
-              <p class="text-center">{{item.title}}</p>
-              <div
-                class="text-center"
-                v-html="item.content"
-                onmouseenter="this.style.color='#28f'"
-                onmouseleave="this.style.color='#ccc'"
-              ></div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>
@@ -608,115 +604,7 @@ export default {
       dealNavList,
       dealCtList,
       businessList,
-      dealerNavList,
-      customerList: [
-        {
-          logo: require("@/assets/img/logo_hp.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_kk.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_toyota.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_kk.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_hp.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_toyota.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_kk.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_hp.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_toyota.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_hp.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_kk.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        },
-        {
-          logo: require("@/assets/img/logo_hp.png"),
-          title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
-          content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
-        }
-      ],
-      serverList: [
-        {
-          logo: require("@/assets/img/tel.png"),
-          title: "核心优势1",
-          content: "<p>由专业客服提供人工服务</p>负责疑难问题和故障受理"
-        },
-        {
-          logo: require("@/assets/img/computer.png"),
-          title: "核心优势2",
-          content: "<p>利用远程视频工具，提供协助</p>帮助客户进行调试、解决故障"
-        },
-        {
-          logo: require("@/assets/img/qq.png"),
-          title: "核心优势3",
-          content: "<p>利用企业QQ提供在线解答</p>帮助企业快速准确解决问题和故障"
-        },
-        {
-          logo: require("@/assets/img/skill.png"),
-          title: "核心优势4",
-          content: "<p>由技术支持工程师，负责问题解答</p>需求受理及故障受理"
-        }
-      ]
+      dealerNavList
     };
   },
   mounted() {
@@ -730,16 +618,16 @@ export default {
         stopOnLastSlide: false,
         disableOnInteraction: false
       },
-      // 如果需要分页器
-      pagination: {
-        el: ".swiper-pagination",
-        clickable: true
-      },
-      // 如果需要前进后退按钮
-      navigation: {
-        nextEl: ".swiper-button-next",
-        prevEl: ".swiper-button-prev"
-      },
+      // // 如果需要分页器
+      // pagination: {
+      //   el: ".swiper-pagination",
+      //   clickable: true
+      // },
+      // // 如果需要前进后退按钮
+      // navigation: {
+      //   nextEl: ".swiper-button-next",
+      //   prevEl: ".swiper-button-prev"
+      // },
       // 延迟加载
       lazy: {
         loadPrevNext: true
@@ -757,11 +645,11 @@ export default {
         stopOnLastSlide: false,
         disableOnInteraction: false
       },
-      // 如果需要前进后退按钮
-      navigation: {
-        nextEl: ".swiper-button-next",
-        prevEl: ".swiper-button-prev"
-      },
+      // // 如果需要前进后退按钮
+      // navigation: {
+      //   nextEl: ".swiper-button-next",
+      //   prevEl: ".swiper-button-prev"
+      // },
       observer: true, //修改swiper自己或子元素时，自动初始化swiper
       observeParents: true //修改swiper的父元素时，自动初始化swiper
     });
@@ -1395,6 +1283,7 @@ export default {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-bottom: 30px;
 }
 .shangshi-content {
   width: 1240px;
@@ -1470,7 +1359,7 @@ export default {
 }
 /* 经销商 */
 .dealer-container {
-  margin-top: 60px;
+  padding-top: 60px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1503,10 +1392,15 @@ export default {
   box-sizing: border-box;
   border: 1px solid #EEEEEE;
   box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background: url("../assets/img/jingx_bg.png") no-repeat;
+  background-size: 100% 100%; */
 }
 .nava1 li img {
-  width: 100%;
-  height: 100%;
+  /* width: 80%;
+  height: 80%; */
 }
 
 /* 资讯 */
@@ -1672,236 +1566,86 @@ export default {
   margin-top: 60px;
   display: flex;
 }
+.partner-main ul {
+  width: 1240px;
+  height: 270px;
+  opacity: 1;
 
+  /* 自动布局 */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 20px;
+}
+.partner-main ul li {
+  width: 224px;
+  height: 250px;
+  /* 自动布局 */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 7px 0px;
 
-/* 您身边的IT专家 */
-#contactUs {
-  color: #867575;
-  height: 400px;
-  background: url("../assets/img/contact_us_bg.jpg") 0 0 no-repeat;
-  background-size: 100% 100%;
-  transition: all ease 0.6s;
-}
-#contactUs .contactUs-container {
-  padding-top: 50px;
-}
-#contactUs .contactUs-container button {
-  width: 300px;
-  height: 50px;
-  margin-top: 40px;
-}
-#contactUs .contactUs-container .contactUs-contactWay span {
-  display: inline-block;
-  width: 48px;
-  height: 48px;
-  margin: 30px;
-}
-#contactUs .contactUs-container .contactUs-contactWay span:nth-of-type(1) {
-  background: url("../assets/img/weixin.png") 0 0 no-repeat;
-  background-size: 100% 100%;
-}
-#contactUs .contactUs-container .contactUs-contactWay span:nth-of-type(2) {
-  background: url("../assets/img/weibo.png") 0 0 no-repeat;
-  background-size: 100% 100%;
-}
-#contactUs .contactUs-container .contactUs-contactWay span:nth-of-type(3) {
-  background: url("../assets/img/twitter.png") 0 0 no-repeat;
-  background-size: 100% 100%;
-}
+  background: linear-gradient(222deg, #DEEEFF -1%, #F1F8FE 100%, #F1F8FE 100%);
 
-/* 客户评价 */
-#customer {
-  padding: 50px 0;
   box-sizing: border-box;
-  background: #efefef;
-  transition: all ease 0.6s;
+  border: 1px solid ;
+  border-image: linear-gradient(222deg, #FFFFFF 0%, #93BEFF 98%) 1;
+
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.08);
+  padding-top: 10px;
 }
-#customer .customer-title {
-  font-size: 30px;
-  color: rgb(102, 102, 102);
-  margin: 0 0 30px;
+.partner-main .parner-1 img {
+  width: 68px;
+  height: 61px;
 }
-#customer .customer-block {
-  background: #fff;
-  padding: 30px;
+.partner-main .parner-2 img {
+  width: 68px;
+  height: 71px;
 }
-#customer .customer-logo img {
-  width: 94px;
-  height: 94px;
-  border: 1px solid #ccc;
+.partner-main .parner-3 img {
+  width: 63px;
+  height: 60px;
 }
-#customer .customer-yh img {
-  width: 34px;
-  height: 34px;
+.partner-main .parner-4 img {
+  width: 60px;
+  height: 56px;
 }
-#customer .customer-content1 {
-  padding-bottom: 20px;
-  border-bottom: 1px solid #0ce9f1;
+.partner-main .parner-5 img {
+  width: 61px;
+  height: 60px;
 }
-#customer .customer-content2 {
+.partner-main .ttl {
+  font-family: PingFang SC;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 0em;
+
+  /* 文字色/232323 */
+  color: #232323;
   padding-top: 20px;
 }
-/* 为什么选择我们 */
-#whyChooseUs {
-  padding: 100px;
+.partner-main .ctr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 24px;
+  flex-grow: 1;
+  align-self: stretch;
+  padding-top: 10px;
 }
-#whyChooseUs .whyChooseUs-title {
-  margin-bottom: 50px;
-}
-#whyChooseUs .whyChooseUs-title p:nth-of-type(1) {
-  font-size: 25px;
-  font-weight: 500;
-}
-#whyChooseUs .whyChooseUs-title p:nth-of-type(2) {
+.partner-main p {
+  font-family: PingFang SC;
   font-size: 14px;
-}
-#whyChooseUs .server-block {
-  padding: 50px 20px;
-  border: 1px solid #ccc;
-  border-bottom: 5px solid #ccc;
-}
-#whyChooseUs .server-block img {
-  width: 48px;
-  height: 48px;
-}
-#whyChooseUs .server-block > p {
-  font-size: 20px;
-  margin: 30px 0;
-}
-#whyChooseUs .server-block > div {
-  color: #ccc;
-}
-/* 媒体查询（手机） */
-@media screen and (max-width: 768px) {
-  #swiper {
-    height: 200px;
-  }
-  #writingStyle {
-    padding: 30px;
-  }
-  #writingStyle .writingStyle-title {
-    font-size: 20px;
-  }
-  #writingStyle .writingStyle-device {
-    font-size: 20px;
-    margin: 10px 0 10px;
-  }
-  #contactUs {
-    height: 200px;
-    transition: all ease 0.6s;
-  }
-  #contactUs .contactUs-container {
-    padding-top: 0;
-  }
-  #contactUs .contactUs-container h1 {
-    font-size: 25px;
-  }
-  #contactUs .contactUs-container h3 {
-    font-size: 18px;
-  }
-  #contactUs .contactUs-container button {
-    width: 200px;
-    height: 30px;
-    margin-top: 20px;
-  }
-  #contactUs .contactUs-container .contactUs-contactWay span {
-    display: inline-block;
-    width: 28px;
-    height: 28px;
-    margin: 10px;
-  }
-  #customer {
-    padding: 30px 0;
-    box-sizing: border-box;
-    background: #fff;
-  }
-  #customer .customer-title {
-    font-size: 16px;
-    font-weight: bold;
-  }
-  #customer .customer-logo img {
-    width: 48px;
-    height: 48px;
-  }
-  #customer .customer-block {
-    padding: 30px;
-  }
-  #customer .customer-block > div {
-    padding: 30px 0;
-  }
-  #whyChooseUs {
-    padding: 20px 0;
-    transition: all ease 0.6s;
-  }
-  #whyChooseUs .whyChooseUs-title p:nth-of-type(1) {
-    font-size: 20px;
-    font-weight: 700;
-  }
-  #whyChooseUs .whyChooseUs-title p:nth-of-type(2) {
-    font-size: 12px;
-  }
-  #whyChooseUs .server-block {
-    padding: 50px 0;
-    border: 1px solid #ccc;
-    border-bottom: 5px solid #ccc;
-  }
-  #whyChooseUs .server-block img {
-    width: 48px;
-    height: 48px;
-  }
-  #whyChooseUs .server-block > p {
-    font-size: 20px;
-    margin: 30px 0;
-  }
-  #whyChooseUs .server-block > div {
-    color: #ccc;
-  }
-}
+  font-weight: normal;
+  line-height: normal;
+  text-align: center;
+  letter-spacing: 0em;
 
-/* 媒体查询（平板） */
-@media screen and (min-width: 768px) and (max-width: 996px) {
-  #swiper {
-    height: 400px;
-  }
-  #writingStyle {
-    padding: 60px;
-  }
-  #writingStyle .writingStyle-title {
-    font-size: 30px;
-  }
-  #writingStyle .writingStyle-device {
-    font-size: 30px;
-    margin: 30px 0 15px;
-  }
-  #contactUs {
-    height: 300px;
-  }
-  #contactUs .contactUs-container {
-    padding-top: 50px;
-  }
-  #contactUs .contactUs-container h1 {
-    font-size: 30px;
-  }
-  #contactUs .contactUs-container h3 {
-    font-size: 20px;
-  }
-  #contactUs .contactUs-container button {
-    width: 300px;
-    height: 50px;
-    margin-top: 30px;
-  }
-  #contactUs .contactUs-container .contactUs-contactWay span {
-    display: inline-block;
-    width: 32px;
-    height: 32px;
-    margin: 15px;
-  }
-  #customer .customer-title {
-    font-size: 24px;
-  }
-  #whyChooseUs {
-    padding: 20px 0;
-  }
+  color: #4B5C76;
 }
 </style>
-

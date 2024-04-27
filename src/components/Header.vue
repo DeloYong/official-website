@@ -16,11 +16,11 @@
           :class="index==navIndex?'active':''"
           @click="navClick(index,item.name)"
         >
-          <router-link :to="item.path">
+          <a>
             {{item.name}}
             <span v-if="item.children.length>0" class="glyphicon glyphicon-menu-down"></span>
             <i class="underline"></i>
-          </router-link>
+          </a>
           <dl v-if="item.children.length>0">
             <dt v-for="(i,n) in item.children" :key="n">
               <router-link :to="i.path">{{i.name}}</router-link>
@@ -35,7 +35,7 @@
     <!-- 手机导航 -->
     <div class="header-nav-m container-fuild visible-xs">
       <div class="header-nav-m-logo">
-        <img class="center-block" src="@/assets/img/logo_black.png" alt="logo">
+        <img class="center-block" src="@/assets/img/logo.png" alt="logo">
       </div>
       <!-- 导航栏 -->
       <div class="header-nav-m-menu text-center">
@@ -117,17 +117,8 @@ export default {
   },
   methods: {
     navClick(index, name) {
-      this.navIndex = index;
-      sessionStorage.setItem('navIndex',index)
-      this.menuName = name;
     },
-    menuClick() {
-      if (this.menuClass == "glyphicon glyphicon-menu-down") {
-        this.menuClass = "glyphicon glyphicon-menu-up";
-      } else {
-        this.menuClass = "glyphicon glyphicon-menu-down";
-      }
-    }
+    menuClick() {}
   }
 };
 </script>
